@@ -3,7 +3,7 @@ name = "frappe_mobile_connector"
 authors = [
     { name = "Satat Tech LLP", email = "app_support@satat.tech"}
 ]
-description = "**frappe\_mobile\_connector** is a Frappe app that acts as a backend bridge for Flutter apps using the `frappe_mobile` package. It provides ready-to-use APIs, authentication, and secure access to DocTypes for seamless mobile integration."
+description = "frappe\_mobile\_connector is a Frappe app that acts as a backend bridge for Flutter apps using the frappe\_mobile package. It provides ready-to-use APIs, authentication, and secure access to DocTypes for seamless mobile integration."
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]
