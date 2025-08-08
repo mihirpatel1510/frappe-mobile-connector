@@ -1,6 +1,6 @@
 ### Frappe Mobile Connector
 
-frappe\\_mobile\\_connector is a Frappe app that acts as a backend bridge for Flutter apps using the frappe\\_mobile package. It provides ready-to-use APIs, authentication, and secure access to DocTypes for seamless mobile integration.
+The frappe mobile connector is a Frappe app that serves as a backend bridge for Flutter applications using the frappe_mobile package. It provides essential APIs, authentication handling, and secure access to DocTypes, enabling seamless communication between your Frappe backend and Flutter frontend.
 
 ### Installation
 

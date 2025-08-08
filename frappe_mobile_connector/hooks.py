@@ -1,7 +1,7 @@
 app_name = "frappe_mobile_connector"
 app_title = "Frappe Mobile Connector"
-app_publisher = "Satat Tech LLP"
-app_description = "frappe\\_mobile\\_connector is a Frappe app that acts as a backend bridge for Flutter apps using the frappe\\_mobile package. It provides ready-to-use APIs, authentication, and secure access to DocTypes for seamless mobile integration."
+app_publisher = "satat tech llp"
+app_description = "The frappe mobile connector is a Frappe app that serves as a backend bridge for Flutter applications using the frappe_mobile package. It provides essential APIs, authentication handling, and secure access to DocTypes, enabling seamless communication between your Frappe backend and Flutter frontend."
 app_email = "app_support@satat.tech"
 app_license = "mit"
 
